@@ -1,9 +1,9 @@
-p#azul {
-    color: blue;
-}
-
 p{
     color: green;
+}
+
+p#azul {
+    color: blue;
 }
 
 p.navegador{
